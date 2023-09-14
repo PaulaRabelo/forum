@@ -1,9 +1,11 @@
+import Rotas from "./rotas/Rotas";
+
 
 
 function App() {
   return (
     <>
-    oi
+    <Rotas/>
     </>
   );
 }
